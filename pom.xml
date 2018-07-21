@@ -917,7 +917,7 @@ limitations under the License.
       <dependency>
         <groupId>org.apache.flume</groupId>
         <artifactId>flume-ng-node</artifactId>
-        <version>1.4.0</version>
+        <version>1.7.0</version>
       </dependency>
 
       <dependency>
