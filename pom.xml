@@ -905,7 +905,7 @@ limitations under the License.
       <dependency>
         <groupId>org.apache.flume</groupId>
         <artifactId>flume-ng-core</artifactId>
-        <version>1.4.0</version>
+        <version>1.9.0</version>
       </dependency>
 
       <dependency>
@@ -1001,13 +1001,13 @@ limitations under the License.
       <dependency>
         <groupId>org.apache.flume</groupId>
         <artifactId>flume-ng-sdk</artifactId>
-        <version>1.4.0</version>
+        <version>1.9.0</version>
       </dependency>
 
       <dependency>
         <groupId>org.apache.flume</groupId>
         <artifactId>flume-ng-sdk</artifactId>
-        <version>1.4.0</version>
+        <version>1.9.0</version>
         <classifier>tests</classifier>
         <scope>test</scope>
       </dependency>
